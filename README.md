@@ -1,21 +1,92 @@
-# 💫 About Me:
-💻 CSE Student @ UIU<br>⚡ Java | C++ | React | Node.js<br>🧠 DSA & Software Engineering<br>🚀 Always learning, always building.
+<div align="center">
 
+# Hi, I'm Fahiz 👋
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/UBHJN4BBe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fahiz.ahmed.sagor) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_tortoise_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-fahiz-ahmed-275b1b2b2) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Md Fahiz Ahmed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahizahmed18@gmail.com) 
+**Computer Science & Engineering Student @ United International University**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mrtortoise2029&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mrtortoise2029&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrtortoise2029&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Building with Java, C++, React, and Node.js — with a strong foundation in Data Structures, Algorithms, and Software Engineering.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrtortoise2029&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mrtortoise2029&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🧭 About Me
 
+- 🎓 CSE undergraduate at UIU, focused on backend development and software engineering fundamentals
+- 🛠️ Comfortable across the stack: React & Tailwind CSS on the frontend, Node.js & Express on the backend
+- 📚 Currently deepening my knowledge of DSA and system design
+- 🌱 Always learning, always building
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=mrtortoise2029&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mrtortoise2029&theme=dark&hide_border=true&layout=compact" />
+
+<img src="https://streak-stats.demolab.com/?user=mrtortoise2029&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mrtortoise2029&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-fahiz-ahmed-275b1b2b2)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/fahiz.ahmed.sagor)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_tortoise_27)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UBHJN4BBe)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahizahmed18@gmail.com)
+
+</div>
+
+<div align="center">
+👁️ Profile views: 
+<img src="https://komarev.com/ghpvc/?username=mrtortoise2029&color=blueviolet&style=flat-square" />
+</div>
